@@ -56,6 +56,7 @@ body {
 
 td > img,
 .ramka > img,
+.ramka_wyksztalcenie > h3,
 .ramka_dane > img {
     padding-right: 5px;
 }
